@@ -1,0 +1,1 @@
+Projeto de aprendizado de uso do Git
